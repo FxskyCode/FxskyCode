@@ -2,30 +2,52 @@
 
 🔐 **Cybersecurity & Pentesting Enthusiast**  
 
-Apasionado por la **ciberseguridad ofensiva y defensiva**, con especial interés en **pentesting, análisis de vulnerabilidades, hardening de sistemas y monitorización de seguridad**. Siempre aprendiendo y compartiendo conocimientos en la comunidad.  
+Passionate about **offensive & defensive security**, with a strong focus on **penetration testing, vulnerability assessment, system hardening, and security monitoring**. Always learning, breaking, and building to make the digital world safer.  
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
+## 🚀 Skills & Tools  
 
-- **Pentesting & Auditoría:** Metasploit | Burp Suite | Nmap | Nessus | OpenVAS | OWASP Top 10  
-- **Análisis & Monitorización:** Wireshark | Snort | Suricata | Wazuh | Splunk  
-- **Sistemas & Redes:** Kali Linux | Linux | Windows | IPTables | UFW | Packet Tracer  
-- **Forense & OSINT:** Autopsy | Maltego | theHarvester  
-- **Normativas:** ISO 27001 | NIST | GDPR | ENS  
-
----
-
-## 📂 Proyectos  
-
-🔍 **Pentesting Labs:** prácticas con Metasploit, Burp Suite y OWASP Top 10  
-🛡️ **Vulnerability Assessment:** automatización con Nmap, Nessus y OpenVAS  
-📡 **IDS/IPS Configurations:** detección de intrusiones con Snort y Suricata  
-📊 **Security Monitoring:** dashboards de seguridad con Wazuh y Splunk  
+- **Pentesting & Audit:** Metasploit | Burp Suite | Nmap | Nessus | OpenVAS | OWASP Top 10  
+- **Monitoring & Analysis:** Wireshark | Snort | Suricata | Wazuh | Splunk  
+- **Systems & Networks:** Kali Linux | Linux | Windows | IPTables | UFW | Packet Tracer  
+- **Forensics & OSINT:** Autopsy | Maltego | theHarvester  
+- **Standards & Compliance:** ISO 27001 | NIST | GDPR | ENS  
 
 ---
 
-## 🌐 Conecta conmigo  
+## 📂 Projects  
+
+🔍 **Pentesting Labs:** penetration tests using Metasploit, Burp Suite, and OWASP Top 10  
+🛡️ **Vulnerability Assessment:** automated scans with Nmap, Nessus, and OpenVAS  
+📡 **IDS/IPS Configurations:** intrusion detection with Snort and Suricata  
+📊 **Security Monitoring:** dashboards and alerts with Wazuh and Splunk  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FxskyCode&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxskyCode&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack Badges  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Connect with me  
 
 <p align="center">
   <a href="https://github.com/FxskyCode" target="_blank">
@@ -38,4 +60,13 @@ Apasionado por la **ciberseguridad ofensiva y defensiva**, con especial interés
 
 ---
 
-✨ *“Hackeando para aprender, defendiendo para proteger.”*  
+## 👁️ Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FxskyCode&label=Profile%20Views&color=0e75b6&style=flat" alt="FxskyCode" />
+</p>
+
+---
+
+✨ *“Hacking to learn, defending to protect.”*  
+ 
