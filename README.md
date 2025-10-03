@@ -25,14 +25,6 @@ Apasionado por la **ciberseguridad ofensiva y defensiva**, con especial interés
 
 ---
 
-## 🌍 Idiomas  
-
-- 🇪🇸 Español (Nativo)  
-- 🏴 Catalán (Nativo)  
-- 🇬🇧 Inglés (Avanzado)  
-
----
-
 ## 🌐 Conecta conmigo  
 
 <p align="center">
