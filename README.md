@@ -1,3 +1,4 @@
+# 👨‍💻 David Ros  
 
 🔐 **Cybersecurity & Pentesting Enthusiast**  
 
@@ -22,13 +23,26 @@ Apasionado por la **ciberseguridad ofensiva y defensiva**, con especial interés
 📡 **IDS/IPS Configurations:** detección de intrusiones con Snort y Suricata  
 📊 **Security Monitoring:** dashboards de seguridad con Wazuh y Splunk  
 
+---
+
+## 🌍 Idiomas  
+
+- 🇪🇸 Español (Nativo)  
+- 🏴 Catalán (Nativo)  
+- 🇬🇧 Inglés (Avanzado)  
 
 ---
 
-## 📫 Conecta conmigo  
+## 🌐 Conecta conmigo  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-ros-bb9b31252/)  
-- 🐙 [GitHub](https://github.com/FxskyCode) → *¡Sígueme para más proyectos de ciberseguridad!*  
+<p align="center">
+  <a href="https://github.com/FxskyCode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/david-ros-bb9b31252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
