@@ -1,4 +1,4 @@
-# 👨‍💻 David Fxsky.  
+# 👨‍💻 David Fxsky. 
 
 🔐 **Cybersecurity & Pentesting Enthusiast**  
 
